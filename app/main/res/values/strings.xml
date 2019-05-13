@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Popular</string>
+
+    <!--Titles-->
+    <string name="workshops">Communities</string>
+    <string name="dashboard">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="applied">Favorite</string>
+    <string name="empty_dashboard">You have not liked any community.</string>
+
+    <!--Authentication-->
+    <string name="internahala">Popular</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="logout">Logout</string>
+
+    <!--Content description-->
+    <string name="profile_image">Profile image</string>
+    <string name="workshop_image">Community image</string>
+    <string name="about_icon">About icon</string>
+
+    <!--Workshop - 1-->
+    <string name="name_workshop1">Indigenous Women Network in Thailand</string>
+    <string name="title_workshop1">The Committee provides direction and governs the activities of the organization</string>
+    <string name="description_workshop1">IWNT was founded in 1996 to provide a gender perspective to development activities affecting indigenous communities in Northern Thailand. Between establishment and 2010, IWNT operated within the Inter Mountain Peoples Education and Culture Thailand Association (IMPECT) - one of the largest indigenous organizations in Thailand - to oversee and advise on gender related aspects of IMPECT&#39;s activities.</string>
+    <string name="url_workshop1">https://iwnt.webs.com/</string>
+
+    <!--Workshop - 2-->
+    <string name="name_workshop2">INA House</string>
+    <string name="title_workshop2">Intriguing cultures of indigenous people in Asia</string>
+    <string name="description_workshop2">The word INA means mother. In a number of Southeast Asian dialects, therefore the house aims to offer a warm, welcoming feel to all guests, like a mother welcoming her children home after a long time apart. Located on the Ping river near the Nawarat branch of Rimping Supermarket, the centre is not only for locals, but welcomes all who wish to come and explore the intriguing cultures of indigenous people in Asia, while at the same time offering a place to support those indigenous people through selling their wares.</string>
+    <string name="url_workshop2">www.inahouse.com</string>
+
+    <!--Workshop - 3-->
+    <string name="name_workshop3">Host bee hive</string>
+    <string name="title_workshop3">HOSTBEEHIVE collaborates with Northern Karen Community Resource Management</string>
+    <string name="description_workshop3">HOSTBEEHIVE collaborates with Northern Karen Community Resource Management. Operates in communities&#39; forest management along with the socially local development to produce the highest quality and healthy products from natural wild. Pure wild honey 100% is mainly produced from the fertile forests with no chemical to harvest. Mutual dependence between humans and forests, essentially provides high nutrients from various flower carpels more over 300 kinds. A portion of purchase is back to the local community and sustainable ecosystem growth.</string>
+    <string name="url_workshop3">https://www.facebook.com/hostbeehive</string>
+
+    <string name="product_name1">Dress</string>
+    <string name="product_description1">Handmade dress by Hmong Indigenous Peoples in Thailand \n SizeL 36,40,42 \n Length: 46 /n Price: 1900 THB</string>
+    <string name="product_price1">1900 THB</string>
+
+    <string name="product_name2">Earrings</string>
+    <string name="product_description2">Earrings made from Hmong Indigenous communities in the northern part of Thailand. \n Price: 99 THB</string>
+    <string name="product_price2">99 THB</string>
+
+    <string name="product_name3">T-Shirt</string>
+    <string name="product_description3">Hmong traditonal schirt from Vietnam \n Size: 38 \n Lenght: ??? 19 \n Price: 890 THB</string>
+    <string name="product_price3">890 THB</string>
+
+</resources>

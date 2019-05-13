@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/extra_large"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_title" />
+
+        <ImageView
+            android:layout_width="@dimen/image_size_large"
+            android:layout_height="@dimen/image_size_large"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/small"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/profile_image"
+            android:src="@drawable/ic_sign_up" />
+
+        <TextView
+            android:id="@+id/email_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/extra_small"
+            android:layout_marginBottom="@dimen/extra_large"
+            android:textAlignment="center"
+            android:textColor="@color/dark_gray"
+            android:textSize="@dimen/text_size_medium" />
+
+</LinearLayout>

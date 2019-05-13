@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_item_image_view">128dp</dimen>
+
+    <dimen name="extra_small">2dp</dimen>
+    <dimen name="small">4dp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="moderate">10dp</dimen>
+    <dimen name="large">16dp</dimen>
+    <dimen name="very_large">24dp</dimen>
+    <dimen name="extra_large">32dp</dimen>
+
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_title">22sp</dimen>
+    <dimen name="text_size_very_large">42sp</dimen>
+
+    <dimen name="image_size_large">120dp</dimen>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context=".authentication.AuthActivity">
+
+    <FrameLayout
+        android:id="@+id/frame_container_auth"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="?actionBarSize"
+        android:background="@color/grey" />
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation_auth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@android:color/white"
+        android:foreground="?attr/selectableItemBackground"
+        app:itemBackground="@android:color/white"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:menu="@menu/navigation_auth" />
+
+</android.support.design.widget.CoordinatorLayout>
