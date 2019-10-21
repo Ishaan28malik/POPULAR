@@ -4,7 +4,7 @@
 
 ## Fossasia UNESCO Hackathon
 
-# Credits [Harshit Khandelwal](https://github.com/liveHarshit)
+## Credits [Harshit Khandelwal](https://github.com/liveHarshit)
 
 ### An Application to improve or enhance the market of endangered communities in Indonesia, Malaysia and Thailand.
 
