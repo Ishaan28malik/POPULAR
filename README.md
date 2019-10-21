@@ -1,6 +1,6 @@
 # POPULAR
 
-![img](https://github.com/Ishaan28malik/POPULAR/blob/master/src/images/img.PNG)
+![img](https://github.com/Ishaan28malik/POPULAR/blob/master/src/images/u.PNG)
 
 ## Fossasia UNESCO Hackathon
 <img src="https://avatars2.githubusercontent.com/u/6295529?s=280&v=4" />
