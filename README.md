@@ -1,8 +1,9 @@
 # POPULAR
 
-<img src="https://avatars2.githubusercontent.com/u/6295529?s=280&v=4" />
+![img](https://github.com/Ishaan28malik/POPULAR/blob/master/src/images/img.PNG)
 
 ## Fossasia UNESCO Hackathon
+<img src="https://avatars2.githubusercontent.com/u/6295529?s=280&v=4" />
 
 ## Credits [Harshit Khandelwal](https://github.com/liveHarshit)
 
